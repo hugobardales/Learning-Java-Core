@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multiplicationTable",
+            "request": "launch",
+            "mainClass": "multiplicationTable",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "MaxDivBy4",
+            "request": "launch",
+            "mainClass": "MaxDivBy4",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
             "name": "GradesLoop",
             "request": "launch",
             "mainClass": "GradesLoop",
