@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "evenOrOddWithBreak",
+            "request": "launch",
+            "mainClass": "evenOrOddWithBreak",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "countDivByN",
+            "request": "launch",
+            "mainClass": "countDivByN",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateChar",
+            "request": "launch",
+            "mainClass": "DuplicateChar",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "breakeAndContinue",
+            "request": "launch",
+            "mainClass": "breakeAndContinue",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "sumOfSquares",
+            "request": "launch",
+            "mainClass": "sumOfSquares",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "productFromAtoB",
+            "request": "launch",
+            "mainClass": "productFromAtoB",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
             "name": "multiplicationTable",
             "request": "launch",
             "mainClass": "multiplicationTable",
