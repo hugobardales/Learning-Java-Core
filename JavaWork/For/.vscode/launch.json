@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FizzBuzzLoop",
+            "request": "launch",
+            "mainClass": "FizzBuzzLoop",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
             "name": "evenOrOddWithBreak",
             "request": "launch",
             "mainClass": "evenOrOddWithBreak",
