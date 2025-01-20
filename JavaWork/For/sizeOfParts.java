@@ -1,4 +1,4 @@
-/*
+/**
  * Imagine that your company has a detector that evaluates the readiness of parts:
  * If the part it needs to be fixed, the detector prints the number 1.
  *If the part needs to be removed as a reject, the detector prints the number -1.

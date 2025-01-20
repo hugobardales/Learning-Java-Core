@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DivByFour",
+            "request": "launch",
+            "mainClass": "DivByFour",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "busTour",
+            "request": "launch",
+            "mainClass": "busTour",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "WhileInputValidation",
+            "request": "launch",
+            "mainClass": "WhileInputValidation",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "SquaringUpPerfectNUmber",
+            "request": "launch",
+            "mainClass": "SquaringUpPerfectNUmber",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "IterationWithBreak",
+            "request": "launch",
+            "mainClass": "IterationWithBreak",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzzWithTernary",
+            "request": "launch",
+            "mainClass": "FizzBuzzWithTernary",
+            "projectName": "For_f36902c4"
+        },
+        {
+            "type": "java",
             "name": "FizzBuzzLoop",
             "request": "launch",
             "mainClass": "FizzBuzzLoop",
