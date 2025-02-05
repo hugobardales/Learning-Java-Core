@@ -13,7 +13,7 @@ public class trafficColor17 {
             case 1 -> System.out.println("Green");
             case 2 -> System.out.println("Yellow");
             case 3 -> System.out.println("Red");
-            default -> System.out.println("invalid");
+            default -> System.out.println("Invalid");
         }
         //closing scanner
         scanner.close();

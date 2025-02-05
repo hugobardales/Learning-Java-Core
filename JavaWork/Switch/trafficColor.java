@@ -17,7 +17,7 @@ public class trafficColor {
                 System.out.println("Red");
                 break;
             default:
-                System.out.println("invalid");
+                System.out.println("Invalid");
         }
 
         scanner.close(); 
