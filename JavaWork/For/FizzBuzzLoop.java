@@ -7,7 +7,7 @@ public class FizzBuzzLoop {
         
         for (int i = num1; i <= num2; i++) {
 
-            if ((i % 3 == 00) && (i % 5 == 00)) {
+            if ((i % 3 == 0) && (i % 5 == 0)) {
                 System.out.println("FizzBuzz");
             } else if ((i % 3 == 00)) {
                 System.out.println("Fizz");
