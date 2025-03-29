@@ -1,4 +1,4 @@
-//**
+/**
 * A program that reads an array of ints and finds the index of the first maximun in that array.
 * The first line contain the number of element separated by spaces.
 * The second line contains the array elements separated by spaces.
